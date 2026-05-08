@@ -124,11 +124,11 @@
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/shubhmehta2604?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/shubhmehta2604)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shubhmehta2604?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/aLVexs9aca/)
 
 </div>
 
-> ⚠️ Update the username `shubhmehta2604` above to your actual LeetCode username.
+
 
 ---
 
