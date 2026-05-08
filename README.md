@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FF9F&center=true&vCenter=true&width=800&height=80&lines=%3C+Shubham+Kumar+%2F%3E;AI+%26+ML+Engineer;Full+Stack+Developer;Computer+Vision+%7C+Deep+Learning)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shubham%20Kumar&fontSize=60&fontColor=fff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descColor=ffffffcc&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=2000&color=A78BFA&center=true&vCenter=true&width=800&height=40&lines=_+Building+intelligent+systems+that+matter...;_+Turning+data+into+real-world+impact...;_+Code.+Learn.+Build.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Building+intelligent+systems+that+matter;Turning+data+into+real-world+impact;Crafting+scalable+AI-powered+solutions;Open+to+collaborate+%26+innovate)](https://git.io/typing-svg)
 
 </div>
 
@@ -148,7 +148,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&height=30&lines=_+while(alive)+%7B+code()%3B+learn()%3B+build()%3B+%7D)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=Shubh-Mehta26-26&style=flat-square&color=a78bfa" alt="Profile Views"/>
 
