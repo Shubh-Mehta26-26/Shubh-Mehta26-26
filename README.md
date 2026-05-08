@@ -1,8 +1,8 @@
 <div align="center">
 
-![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=1&pause=99999&color=00FF9F&center=true&vCenter=true&width=800&height=80&lines=%3C+Shubham+Kumar+%2F%3E)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FF9F&center=true&vCenter=true&width=800&height=80&lines=%3C+Shubham+Kumar+%2F%3E;AI+%26+ML+Engineer;Full+Stack+Developer;Computer+Vision+%7C+Deep+Learning)](https://git.io/typing-svg)
 
-![Subtitle](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=1&pause=99999&color=7C7C7C&center=true&vCenter=true&width=800&height=40&lines=_+AI+Engineer+%7C+ML+Developer+%7C+Full+Stack+Builder)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=2000&color=A78BFA&center=true&vCenter=true&width=800&height=40&lines=_+Building+intelligent+systems+that+matter...;_+Turning+data+into+real-world+impact...;_+Code.+Learn.+Build.+Repeat.)](https://git.io/typing-svg)
 
 </div>
 
@@ -148,7 +148,7 @@
 
 <div align="center">
 
-![Footer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=00FF9F&center=true&vCenter=true&width=800&height=40&lines=_+while(alive)+%7B+code()%3B+learn()%3B+build()%3B+%7D)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&height=30&lines=_+while(alive)+%7B+code()%3B+learn()%3B+build()%3B+%7D)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Shubh-Mehta26-26&style=flat-square&color=a78bfa" alt="Profile Views"/>
 
