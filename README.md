@@ -16,26 +16,47 @@
 
 ## 👋 About Me
 
-```python
-class Shubham:
-    def __init__(self):
-        self.name        = "Shubham Kumar"
-        self.role        = "AI / ML Engineer & Full Stack Developer"
-        self.location    = "India 🇮🇳"
-        self.focus       = ["Predictive Analytics", "Computer Vision", "Intelligent Web Apps"]
-        self.learning    = ["Deep Learning", "MLOps", "Cloud (AWS/Azure)", "DSA"]
-        self.fun_fact    = "I combine strategic thinking + discipline + AI to build real-world solutions ⚡"
+<table>
+<tr>
+<td valign="top" width="50%">
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something impactful together 🚀")
+### 🙋‍♂️ Who am I?
+- 🔭 Working on **AI, ML & Intelligent Web Apps**
+- 🌱 Currently learning **Deep Learning, MLOps, Cloud & DSA**
+- 👯 Open to collaborate on **AI / Data Science projects**
+- 💬 Ask me about **Python, ML, Computer Vision, Web Dev**
+- 📍 Based in **India 🇮🇳**
+- ⚡ Fun fact: I combine **strategic thinking + discipline + AI** to build real-world solutions
 
-me = Shubham()
-me.say_hi()
+</td>
+<td valign="top" width="50%">
+
+### 🎯 Current Focus
 ```
+🤖  Predictive Analytics & ML Models
+👁️  Computer Vision Systems
+🌐  Intelligent Web Applications
+☁️  Cloud Computing (AWS / Azure)
+📊  Data Analytics & Visualization
+🧠  Deep Learning Architectures
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Tech Stack
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 ### 🤖 AI / ML / Data Science
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -99,13 +120,15 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧩 LeetCode Stats
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shubh-Mehta26-26&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shubhmehta2604?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/shubhmehta2604)
 
 </div>
+
+> ⚠️ Update the username `shubhmehta2604` above to your actual LeetCode username.
 
 ---
 
