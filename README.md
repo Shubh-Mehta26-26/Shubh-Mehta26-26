@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shubham%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Full%20Stack%20Developer&descAlignY=60&descColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,40:0a0a1a,100:0d0d0d&height=180&section=header&text=%3C%20Shubham%20Kumar%20/%3E&fontSize=52&fontColor=00ff9f&fontAlignY=55&desc=_%20AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Full%20Stack%20Builder&descAlignY=78&descColor=7c7c7c&stroke=00ff9f&strokeWidth=1" width="100%" />
 
 </div>
 
@@ -146,7 +146,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0a0a1a&height=60&section=footer&text=_%20while(alive)%20%7B%20code()%3B%20learn()%3B%20build()%3B%20%7D&fontSize=14&fontColor=00ff9f&fontAlignY=55" width="100%" />
 
 <img src="https://komarev.com/ghpvc/?username=Shubh-Mehta26-26&style=flat-square&color=a78bfa" alt="Profile Views"/>
 
