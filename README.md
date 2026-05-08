@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,40:0a0a1a,100:0d0d0d&height=180&section=header&text=%3C%20Shubham%20Kumar%20/%3E&fontSize=52&fontColor=00ff9f&fontAlignY=55&desc=_%20AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Full%20Stack%20Builder&descAlignY=78&descColor=7c7c7c&stroke=00ff9f&strokeWidth=1" width="100%" />
+![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=1&pause=99999&color=00FF9F&center=true&vCenter=true&width=800&height=80&lines=%3C+Shubham+Kumar+%2F%3E)
+
+![Subtitle](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=1&pause=99999&color=7C7C7C&center=true&vCenter=true&width=800&height=40&lines=_+AI+Engineer+%7C+ML+Developer+%7C+Full+Stack+Builder)
 
 </div>
 
@@ -146,7 +148,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0a0a1a&height=60&section=footer&text=_%20while(alive)%20%7B%20code()%3B%20learn()%3B%20build()%3B%20%7D&fontSize=14&fontColor=00ff9f&fontAlignY=55" width="100%" />
+![Footer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=00FF9F&center=true&vCenter=true&width=800&height=40&lines=_+while(alive)+%7B+code()%3B+learn()%3B+build()%3B+%7D)
 
 <img src="https://komarev.com/ghpvc/?username=Shubh-Mehta26-26&style=flat-square&color=a78bfa" alt="Profile Views"/>
 
